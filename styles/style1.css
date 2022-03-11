@@ -1,0 +1,21 @@
+.button1, .button2, .button3{
+    width: 30%;
+    align-self: center;
+    padding: 15px 30px;
+    text-align: center;
+    margin: 4px 4px;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    border: rgb(255, 123, 0);
+}
+.button1 {
+    background-color: #f01237f8;
+}
+
+.button2 {
+    background-color: #008CBA;
+}
+
+.button3 {
+    background-color: #e7da1a;
+}
